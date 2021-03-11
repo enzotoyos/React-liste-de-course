@@ -2,7 +2,7 @@
 
 Application développé avec la librairie React.js. Elle permet de se confectionner une liste de course sur mesure. 
 
-##  Prerequisites
+##  Prérequis
 
 Le projet peut-etre Build à l'aide de" yarn" ou "npm"
 * npm est distribué avec Node.js il suffit d'installer node.js. [télécharger Node.js](https://nodejs.org/en/download/)
@@ -11,7 +11,7 @@ or
 
 * Yarn est un package gérer par Facebook.  [Download Yarn](https://yarnpkg.com/en/docs/install)
 
-### Installing
+### Installation
 Pour télécharger le projet:
 
 ```
