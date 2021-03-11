@@ -15,8 +15,8 @@ or
 Pour télécharger le projet:
 
 ```
-git clone https://github.com/computationalcore/react-to-do-list
-cd myreads
+git clone https://github.com/enzotoyos/React-liste-de-course
+cd React-liste-de-course
 ```
 
 Installer les dépendances et lancer l'application sur un navigateur:
