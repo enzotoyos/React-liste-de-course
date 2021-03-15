@@ -242,8 +242,8 @@ class App extends Component {
 				<div className="App">
 					{/* Clear Tasks Confirmation Dialog */}
 					<ConfirmDialog
-						title="Clear All Tasks"
-						message={'Are you sure you want to remove all tasks from the App?'}
+						title="Supprimer la liste"
+						message={'Etes-vous sur de vouloir supprimer tout les articles'}
 						onCancel={this.handleDialogClose}
 						onConfirm={this.clearTasks}
 						open={this.state.dialogOpen}

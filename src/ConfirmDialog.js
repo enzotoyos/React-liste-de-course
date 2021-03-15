@@ -41,12 +41,12 @@ function ConfirmDialog(props) {
 	// Confirm Dialog buttons
 	const dialogActions = [
 		<FlatButton
-			label="Cancel"
+			label="Annuler"
 			className="confirm-dialog"
 			onClick={props.onCancel}
 		/>,
 		<FlatButton
-			label="Confirm"
+			label="Valider"
 			backgroundColor="#FF9584"
 			hoverColor="#FF583D"
 			className="confirm-dialog"
